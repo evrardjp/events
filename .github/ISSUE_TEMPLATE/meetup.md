@@ -1,10 +1,9 @@
 ---
 name: Meetup
 about: Todo list for everything related to planning a meetup
-title: "[MONTH] [YEAR] Meetup - [LOCATION]"
+title: "[YYYY].[MM] Meetup"
 labels: ''
 assignees: ''
-
 ---
 
 - [ ] Date
@@ -14,9 +13,10 @@ assignees: ''
 - [ ] Open Call for Speakers
 - [ ] Publish on community.cncf.io
 - [ ] Publish on LinkedIn "company" page
+- [ ] Cross-post with other Belgium community groups (cf. Peter L.)
 - [ ] Announce in cncf slack #belgium channel
-- [ ] Announce talk/speaker #1 on socials 
-- [ ] Announce talk/speaker #1 on socials 
+- [ ] Announce talk/speaker `#1` on socials 
+- [ ] Announce talk/speaker `#2` on socials 
 - [ ] Social media announcement 4 weeks before event
 - [ ] Social media announcement 2 weeks before event
 - [ ] Social media announcement 1 week before event
