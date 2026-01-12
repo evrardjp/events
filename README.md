@@ -1,2 +1,3 @@
-# events
-Everything related to events
+# CNCF-events
+
+Everything related to the organization of CNCF Brussels meetup.
